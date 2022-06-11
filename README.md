@@ -1,3 +1,3 @@
 # rsschool-cv
+https://GITHUB-USERNAME.github.io/rsschool-cv/
 
-https://github.com/irensavi/rsschool-cv/blob/rsschool-cv-html/cv.md
